@@ -21,3 +21,8 @@
 
 [Download](https://code.google.com/p/android4me/downloads/list)
 
+### baksmali.jar/smali.jar
+
+[Download](https://bitbucket.org/JesusFreke/smali/downloads)
+
+[Github](https://github.com/JesusFreke/smali)
