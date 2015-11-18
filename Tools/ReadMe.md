@@ -32,6 +32,12 @@
 [Github](https://github.com/JesusFreke/smali)
 
 
+### jadx
+
+[Download](http://sourceforge.net/projects/jadx/files/latest/download)
+
+[to useing](http://www.jianshu.com/p/65c2f447946e)
+
 
 ## User
 
